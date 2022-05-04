@@ -20,7 +20,7 @@ export const feedbackTypes = {
     title: "Ideia",
     image: {
       source: ideaImageUrl,
-      alt: "Lâmpada acessa",
+      alt: "Lâmpada acesa",
     },
   },
   OTHER: {
